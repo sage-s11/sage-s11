@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyas
-- 🌱 I’m currently learning Apache Kafka and Docker
+- 🌱 I’m currently learning DDI Automation.
 - 💞️ I’m looking to collaborate on anything that runs on Java
 - 📫 How to reach me shrey.sneh650@gmail.com
 
