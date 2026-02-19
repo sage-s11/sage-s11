@@ -5,8 +5,8 @@
 
 
 - Currently working on [ JA3 TLS INTELLIGENCE ENGINE ]
-  [ja3.tif](https://github.com/user-attachments/files/25408864/ja3.tif)
-  [ja32.tif](https://github.com/user-attachments/files/25408867/ja32.tif)
+
+<img width="1871" height="788" alt="image" src="https://github.com/user-attachments/assets/00f7d5ed-0973-4078-8382-ca4e28bddd1e" />
 
 <!---
 sage-s11/sage-s11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
