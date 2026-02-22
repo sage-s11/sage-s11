@@ -8,12 +8,12 @@
 - 📫 How to reach me shrey.sneh650@gmail.com
 ---
 
-## Current Project — JA3 TLS Intelligence Engine
+## Currently Building — JA3 TLS Intelligence Engine
 
 > **Passive TLS fingerprinting meets behavioral anomaly detection.**
 
 <img width="1871" alt="JA3 TLS Intelligence Engine Dashboard" src="https://github.com/user-attachments/assets/00f7d5ed-0973-4078-8382-ca4e28bddd1e" />
-
+<br/>
 
 **Key Capabilities:**
 - 🔍 Passive JA3/JA3S TLS fingerprint capture via raw socket sniffing
